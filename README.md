@@ -1,4 +1,4 @@
 # college-demo-
-This is my first Repositiry (or) Repos.
+This is my first Repositiry.
 <br>
 Author -Sai Ganesh 
